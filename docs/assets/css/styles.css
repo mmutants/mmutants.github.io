@@ -18,6 +18,7 @@
 body{ 
 	margin-top: 75px;
 	height: 100%;
+	margin-left: 400px;
 }
 body.homepage {
 	margin-left: 370px;
@@ -27,18 +28,65 @@ body.homepage {
 }
 
 body.folder{ 
-	margin-left: 400px;
 	background-color: rgb(242,245,250);
 	background-image: url("../images/lined.png");
 	background-repeat: repeat; 
 }
 
 body.about{ 
-	margin-left: 400px;
-	background-color: rgb(242,245,250);
-	background-image: url("../images/tv.png");
+	background-color: black;
+	background-image: url("../images/woodpattern.jpg");
 	background-repeat: repeat; 
-	background-size: 80px;
+	background-size: 90px;
+}
+
+body.holy{ 
+	background-color: black;
+	background-image: url("../images/stars.gif");
+	background-repeat: repeat; 
+	background-size: 100px;
+}
+
+body.alas{ 
+	background-color: black;
+	background-image: url("../images/tragedy.jpg");
+	background-repeat: repeat; 
+	background-size: 100px;
+}
+
+body.graphic{ 
+	background-color: orangered;
+	background-image: url("../images/dusty.jpg");
+	background-repeat: repeat; 
+	background-size: 256px;
+}
+
+body.traditional{ 
+	background-color: rgb(242,245,250);
+	background-image: url("../images/paper2.png");
+	background-repeat: repeat; 
+	background-size: 256px;
+}
+
+body.digital{ 
+	background-color: black;
+	background-image: url("../images/greenspace.gif");
+	background-repeat: repeat; 
+	background-size: 256px;
+}
+
+body.threedee{ 
+	background-color: orangered;
+	background-image: url("../images/space1.jpg");
+	background-repeat: repeat; 
+	background-size: 256px;
+}
+
+body.other{ 
+	background-color: black;
+	background-image: url("../images/space2.jpg");
+	background-repeat: repeat; 
+	background-size: 256px;
 }
 
 .snippet { 
