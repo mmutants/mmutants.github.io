@@ -10,7 +10,7 @@
 	border-right: 4px solid black;
 	box-sizing: border-box;
 	background-color: black;
-	background-image: url("docs/assets/images/arcade.jpg");
+	background-image: url("../images/arcade.jpg");
 	background-repeat: repeat;
 	background-size: 90px;
 }
@@ -22,21 +22,21 @@ body{
 body.homepage {
 	margin-left: 370px;
 	background-color: rgb(40,83,74);
-	background-image: url("docs/assets/images/logs.jpg");
+	background-image: url("../images/logs.jpg");
 	background-repeat: repeat; 
 }
 
 body.folder{ 
 	margin-left: 400px;
 	background-color: rgb(242,245,250);
-	background-image: url("docs/assets/images/lined.png");
+	background-image: url("../images/lined.png");
 	background-repeat: repeat; 
 }
 
 body.about{ 
 	margin-left: 400px;
 	background-color: rgb(242,245,250);
-	background-image: url("docs/assets/images/tv.png");
+	background-image: url("../images/tv.png");
 	background-repeat: repeat; 
 	background-size: 80px;
 }
@@ -129,7 +129,7 @@ a:hover {
 
 .stickynote { 
 	background-color: beige;
-	background-image: url("docs/assets/images/paper.png");
+	background-image: url("../images/paper.png");
 	background-repeat: repeat;
 	font-family: "Courier New";
 	padding: 35px;
