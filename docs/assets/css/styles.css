@@ -186,3 +186,20 @@ a:hover {
 	width: 300px;
 	box-shadow: 5px 5px 5px black;
 }
+
+.imgbox { 
+	display: flex;
+	flex-wrap: wrap;
+	padding: 10px;
+ }
+
+ .imgcolumn { 
+ 	flex: 25%;
+ 	max-width: 25%;
+ 	padding: 10px;
+ }
+
+ .imgcolumn img { 
+ 	vertical-align: middle;
+ 	width: 100%;
+ }
